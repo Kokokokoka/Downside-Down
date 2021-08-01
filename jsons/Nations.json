@@ -24,8 +24,15 @@
         "uniqueText": "All the special advantages that other nations have, combined into one, with none of the special disadvantages. Are you ready to turn the world upside down?",
         "uniques": 
         [ 
-          "Receive free [Great Scientist, Great General] when you discover [Writing]"
-        , "[+1 Science, +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Luxury Resource, Snow, Grassland, Desert, Jungle, Plantation, Strategic Resource]"
+          "Receive free [Great Scientist] when you discover [Writing]"
+        , "Receive free [Great General] when you discover [Writing]"
+        , "[+1 Science, +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Luxury Resource]"
+        , "[+1 Science, +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Snow]"
+        , "[+1 Science, +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Grassland]"
+        , "[+1 Science, +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Desert]"
+        , "[+1 Science, +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Jungle]"
+        , "[+1 Science, +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Plantation]"
+        , "[+1 Science, +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Strategic Resource]"
         , "[+7 Science, +7 Happiness, +7 Culture, +7 Production, +7 Food, +7 Gold] in capital"
         , "[+1 Science, +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] in all cities"
         , "[+1 Science, +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] per [1] population [in all cities]"
