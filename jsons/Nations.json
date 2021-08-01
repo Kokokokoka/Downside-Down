@@ -22,7 +22,14 @@
         "innerColor": [0,0,0],
         "uniqueName": "The World Turned Upside-Down",
         "uniqueText": "All the special advantages that other nations have, combined into one, with none of the special disadvantages. Are you ready to turn the world upside down?",
-        "uniques": ["Receive free [Great Scientist] when you discover [Writing]"
+        "uniques": 
+        [ 
+          "Receive free [Great Scientist] when you discover [Writing]"
+        , "[+1 Science +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Snow]"
+        , "[+1 Science +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Grassland]"
+        , "[+1 Science +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Desert]"
+        , "[+7 Science, +7 Happiness, +7 Culture, +7 Production, +7 Food, +7 Gold] in capital"
+        , "[+1 Science +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] per [1] population [in all cities]"
         , "[Great Scientist] is earned [50]% faster"
         , "City-State Influence degrades [50]% slower"
         , "City-State Influence recovers at twice the normal rate"
@@ -52,15 +59,10 @@
         , "Receive a tech boost when scientific buildings/wonders are built in capital"
         , "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."
         , "Golden Age length increased by [50]%"
-        , "[+7 Science, +7 Happiness, +7 Culture, +7 Production, +7 Food, +7 Gold] in capital"
-        , "[+1 Science +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] per [1] population [in all cities]"
         , "+1 Movement for all units during Golden Age"
         , "+10% Strength for all units during Golden Age"
         , "Can embark and move over Coasts and Oceans immediately"
         , "+[1] Sight for all [Embarked] units"
-        , "[+1 Science +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Snow]"
-        , "[+1 Science +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Grassland]"
-        , "[+1 Science +1 Happiness, +1 Culture, +2 Production, +1 Food, +1 Gold] from every [Desert]"
         , "+[10]% Strength if within [2] tiles of a [Iaom]"
         , "Food and Culture from Friendly City-States are increased by 50%"
         , "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)"
